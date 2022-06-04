@@ -18,7 +18,7 @@ Hi, I'm Suhani Sandhu, a passionate software engineer from India with 5+ years o
 
  💬 Ask me about anything and I'd be happy to help<br/>
  
- 📫 How to reach me: [@suhanisandhu](linkedin.com/in/suhani-sandhu-887b94238)<br/>
+ 📫 How to reach me: [@suhanisandhu](https://www.linkedin.com/in/suhani-sandhu-887b94238/)<br/>
  
  📝 [Resume]([https://drive.google.com/file/d/1z6X8WEZfY2Rvw5CAq48qfPSyBtLLr89A/view?usp=sharing](https://drive.google.com/file/d/1yX11vVQBnjRmsP8X-RZidLmltTgUDZcD/view?usp=sharing))<br/>
 
