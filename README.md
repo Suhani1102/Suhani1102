@@ -3,7 +3,7 @@ Hi, I'm Suhani Sandhu, a passionate software engineer from India with 5+ years o
 
 
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300" />
 
 ### Technologies i work on:
 
