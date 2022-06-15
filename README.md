@@ -19,7 +19,7 @@ Hi, I'm Suhani Sandhu, a passionate software engineer from India with 5+ years o
  
  📫 How to reach me: [@suhanisandhu](https://www.linkedin.com/in/suhani-sandhu-887b94238/)<br/>
  
- 📝 [Resume]([https://drive.google.com/file/d/1z6X8WEZfY2Rvw5CAq48qfPSyBtLLr89A/view?usp=sharing](https://drive.google.com/file/d/1yX11vVQBnjRmsP8X-RZidLmltTgUDZcD/view?usp=sharing))<br/>
+ 📝 [Resume](https://drive.google.com/file/d/1yX11vVQBnjRmsP8X-RZidLmltTgUDZcD/view?usp=sharing)<br/>
 
 <!--
 **Suhani1102/Suhani1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
