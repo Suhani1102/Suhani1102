@@ -17,7 +17,7 @@ Hi, I'm Suhani Sandhu, a passionate software engineer from India with 5+ years o
 
  💬 Ask me about anything and I'd be happy to help<br/>
  
- 📫 How to reach me: <a href="https://www.linkedin.com/in/suhani-sandhu-887b94238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parth-bisht-2613aa221" height="20" width="30" /></a><br/>
+ 📫 How to reach me: <a href="https://www.linkedin.com/in/suhani-sandhu-887b94238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani-sandhu-887b94238" height="20" width="30" /></a><br/>
  
  📝 [Resume](https://drive.google.com/file/d/1yX11vVQBnjRmsP8X-RZidLmltTgUDZcD/view?usp=sharing)<br/>
 
