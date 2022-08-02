@@ -2,7 +2,7 @@
 
 I'm Suhani Sandhu, a passionate software engineer from India with 5+ years of experience in creating web applications.
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="250" />
 
 ### Technologies i work on:
 
@@ -20,6 +20,8 @@ I'm Suhani Sandhu, a passionate software engineer from India with 5+ years of ex
  📫 How to reach me: <a href="https://www.linkedin.com/in/suhani-sandhu-887b94238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani-sandhu-887b94238" height="20" width="30" /></a><br/>
  
  📝 [Resume](https://drive.google.com/file/d/1yX11vVQBnjRmsP8X-RZidLmltTgUDZcD/view?usp=sharing)<br/>
+ 
+ <h3><i>GitHub's Stats <img         src="https://camo.githubusercontent.com/f11b92476ee793cfe97f20e0564ab552bd9bd670179d7b6772c59bb4d3218ca6/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f36352f63342f66342f36356334663435323537316265313236316539633632336637646134383861632e676966" width="35"/></i></h3>
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhani1102&show_icons=true&locale=en&layout=compact" alt="Suhani1102" /></p>
 
