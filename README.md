@@ -25,9 +25,9 @@ I'm Suhani Sandhu, a passionate software engineer from India with 5+ years of ex
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhani1102&show_icons=true&locale=en&layout=compact" alt="Suhani1102" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhani1102&show_icons=true&locale=en" alt="Suhani1102" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=suhani1102&show_icons=true&locale=en" alt="Suhani1102" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhani1102&" alt="Suhani1102" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=suhani1102&" alt="Suhani1102" /></p>
 
 <!--
 **Suhani1102/Suhani1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
