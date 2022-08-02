@@ -20,6 +20,12 @@ I'm Suhani Sandhu, a passionate software engineer from India with 5+ years of ex
  📫 How to reach me: <a href="https://www.linkedin.com/in/suhani-sandhu-887b94238/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suhani-sandhu-887b94238" height="20" width="30" /></a><br/>
  
  📝 [Resume](https://drive.google.com/file/d/1yX11vVQBnjRmsP8X-RZidLmltTgUDZcD/view?usp=sharing)<br/>
+ 
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suhani1102&show_icons=true&locale=en&layout=compact" alt="Suhani1102" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suhani1102&show_icons=true&locale=en" alt="Suhani1102" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suhani1102&" alt="Suhani1102" /></p>
 
 <!--
 **Suhani1102/Suhani1102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
