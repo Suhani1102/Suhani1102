@@ -1,6 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 I'm Suhani Sandhu, a passionate software engineer from India with 5+ years of experience in creating web applications.
+A passionate learner who's always willing to learn and work across technology.
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="470" height="270" />
 
